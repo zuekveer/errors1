@@ -1,0 +1,2 @@
+# errors1
+funnyProjectforErrors
